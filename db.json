@@ -1,0 +1,421 @@
+{
+  "projects": [
+    {
+      "name": "CAMARAO K",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": 1,
+      "preco": "1500",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "2",
+        "name": "Caixa"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 2,
+      "stockVendido": 0
+    },
+    {
+      "name": "VORSE DE FRANGO",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": null,
+      "preco": "345",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [
+        {
+          "registo": "2023-03-28",
+          "quantidade": "1",
+          "description": "SINGULAR",
+          "preco": "345",
+          "precoTotal": 345,
+          "id": "ee161974-15e1-40ea-8d09-19be2db98662"
+        },
+        {
+          "preco": "345",
+          "precoTotal": null,
+          "id": "2c140c67-e0f1-49dd-8ea2-c722532ffaab"
+        }
+      ],
+      "id": 3,
+      "stockVendido": null
+    },
+    {
+      "name": "SALSICHAS FAJITA",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": 5,
+      "preco": "280",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 4,
+      "stockVendido": 0
+    },
+    {
+      "name": "SALSICHAS DE PEPERONATA",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "345",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 5
+    },
+    {
+      "name": "VIENA DE FRANGO",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "410",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 6
+    },
+    {
+      "name": "VIENA DE BIFE",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "410",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 7
+    },
+    {
+      "name": "BIFE PALONE CHILLI CORIENDER",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "130.50",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 8
+    },
+    {
+      "name": "LULA",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "325",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "3",
+        "name": "Kilograma"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 9
+    },
+    {
+      "name": "CHIKEN PEPER PALONE MINI",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "130.50",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 10
+    },
+    {
+      "name": "CHOURICE SAUSAGE BEEF",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "227.50",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 11
+    },
+    {
+      "name": "ITALIAN SAUSAGE",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "280",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 12
+    },
+    {
+      "name": "CHIKEN COCKTAIL",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "182.50",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 13
+    },
+    {
+      "name": "BBQ PALONE MINI",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "105",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 14
+    },
+    {
+      "name": "ANDAUALLI VIENA",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "1",
+      "preco": "410",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "6",
+        "name": "Embalagem"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 16
+    },
+    {
+      "name": "ALHO NACIONAL",
+      "item": {
+        "id": "1",
+        "name": "Alho Nacional"
+      },
+      "stockActual": "0.5",
+      "preco": "100",
+      "category": {
+        "id": "1",
+        "name": "TEMPERO"
+      },
+      "unidade": {
+        "id": "3",
+        "name": "Kilograma"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 17
+    },
+    {
+      "name": "CAMARAO Q",
+      "item": {
+        "id": "5",
+        "name": "Outro"
+      },
+      "stockActual": "5",
+      "preco": "1300",
+      "category": {
+        "id": "2",
+        "name": "CONGELADO"
+      },
+      "unidade": {
+        "id": "2",
+        "name": "Caixa"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 18
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "TEMPERO"
+    },
+    {
+      "id": 2,
+      "name": "CONGELADO"
+    },
+    {
+      "id": 3,
+      "name": "HIGIENE E LIMPEZA"
+    },
+    {
+      "id": 4,
+      "name": "MODA"
+    },
+    {
+      "id": 5,
+      "name": "SUMO E REFRIGERANTES"
+    }
+  ],
+  "itens": [
+    {
+      "id": 1,
+      "name": "Alho Nacional"
+    },
+    {
+      "id": 2,
+      "name": "Folha de Louro"
+    },
+    {
+      "id": 3,
+      "name": "Cravo da India"
+    },
+    {
+      "id": 34,
+      "name": "Lula Nacional"
+    },
+    {
+      "id": 5,
+      "name": "Outro"
+    }
+  ],
+  "unidades": [
+    {
+      "id": 1,
+      "name": "Pacote"
+    },
+    {
+      "id": 2,
+      "name": "Caixa"
+    },
+    {
+      "id": 3,
+      "name": "Kilograma"
+    },
+    {
+      "id": 4,
+      "name": "Litro"
+    },
+    {
+      "id": 5,
+      "name": "Cada"
+    },
+    {
+      "id": 6,
+      "name": "Embalagem"
+    }
+  ],
+  "descriptions": [
+    {
+      "id": 1,
+      "name": "Singular"
+    },
+    {
+      "id": 2,
+      "name": "Empresa"
+    }
+  ]
+}
